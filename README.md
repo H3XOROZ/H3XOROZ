@@ -8,10 +8,7 @@ i've been learning Golang & C# for 1 Year### Skills
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
                     </p>
-                    
                   ### Socials
-                  
-                  
                 <p align="left">
                       <a href="https://discord.com/users/H3XOROZ" target="_blank" rel="noreferrer">
                     <picture>
