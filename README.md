@@ -1,10 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thodsaporn Seaoueng
 ===========================================================================================================================================
 
-Student
--------
+Student 22 Year old
+-------------------
 
 i've been learning Golang & C# for 1 Year
+
+* 🌍  I'm based in Thailand , Nakhon ratchasima
+* ✉️  You can contact me at [gin25443@gmail.com](mailto:gin25443@gmail.com)
+* 🧠  I'm learning Golang
 
 ### Skills
 
